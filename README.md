@@ -11,7 +11,7 @@ Cada pasta tem um nome especifíco para os projetos.
 
 ### 🛠️ EXPLICAÇÃO
 
-Cada pasta têm os passos explicando como rodar cada código.
+Cada código contêm passos de como rodar o código.
 
 ### Licença 
 

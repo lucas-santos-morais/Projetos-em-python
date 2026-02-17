@@ -110,6 +110,7 @@ grade.mainloop()
 
 
 
+#Código original sem interface gráfica
 '''
 print("Digite se seu armazenamento é TB ou GB, use apenas essas siglas")
 unidade = input(">")
