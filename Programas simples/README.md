@@ -23,6 +23,10 @@ Programa que diz qual a capacidade real do seu armazenamento.
 
 Jogo simples que voçe disputa com a máquina.
 
+### Gerador de QR code
+
+Um código simples para gerar qr codes lendo uma planilha e usando o link do forms.
+
 ---
 
 ## Licença 
